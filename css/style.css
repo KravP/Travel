@@ -175,6 +175,7 @@ img{
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
+    margin-bottom: 40px;
 }
 .intro_title {
     max-width: 619px;
@@ -224,6 +225,7 @@ img{
     color: #FFFFFF;
     background: #1B7DFF;
     border: none;
+    
 }
 
 .search-form_submit:hover, .search-form_submit:focus, .search-form_submit:active{
